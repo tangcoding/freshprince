@@ -1,0 +1,19 @@
+body{
+	background-color: grey;
+	text-align: center;
+}
+
+h1{
+	color: red;
+	font-size: 120%;
+    text-align: center;}
+
+p{
+	font-size: 120%;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+ul{
+	font-size: 120%;
+    text-align: center;}
